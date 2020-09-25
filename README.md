@@ -1,2 +1,2 @@
 # Fig-merge
-Merge result figures into one pdf 
+Merge png/jpeg figures into one pdf 
